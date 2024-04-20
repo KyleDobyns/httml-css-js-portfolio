@@ -46,7 +46,7 @@
 @media screen and (max-width: 600px) {
     #contact,
     footer {
-        height: 30vh;
+        height: 40vh; /* 30 */
     }
     #profile {
         height: 83vh;
@@ -57,7 +57,7 @@
     }
     footer nav {
         height: fit-content;
-        margin-bottom: 3rem;
+        margin-bottom: 2rem; /* 3 */
     }
     .about-containers,
     .contact-info-upper-container, 
